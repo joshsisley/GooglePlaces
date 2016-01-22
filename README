@@ -1,0 +1,26 @@
+INSTRUCTIONS FOR RUNNING THE APPLICATION:
+
+For Mac users:
+
+To run the application locally, open up terminal and navigate into the folder that the project files are in. While in that folder run this command in
+
+terminal: python -m SimpleHTTPServer 3000
+
+After that go to your chrome browser and run the app using localhost:3000
+
+
+For Windows users:
+
+In order to run the application on windows, you will have to download WAMP and run the application through it.
+
+
+
+HELPFUL TIPS FOR USING THE APPLICATION
+
+Upon loading, you can search for a venue followed by location or vice versa. Once you click "search", the results from Google Places will apear below the search field.
+
+From there you can see your search results and save your favorite spots. A pop up will apear in the bottom left hand corner confirming that you've saved the location.
+
+You can then click on the button in the right hand corner of the screen labeled "My Saved Locations" which will disply all of your saved locations and allow
+
+you to remove them as you wish. You can then hit the button in the middle of the screen that says "Back To Search" to continue searching for new spots!
